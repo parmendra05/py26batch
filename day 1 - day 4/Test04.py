@@ -19,8 +19,10 @@ second_number = 20
 total = first_number + second_number
 print(total)
 
+"""
 1stNumber = 50
-print(1stNumber)
+print(1stNumber) # Error due to naming convension 
+"""
 
 
 

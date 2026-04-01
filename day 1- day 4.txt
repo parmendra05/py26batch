@@ -1,0 +1,49 @@
+
+1 . Introduction -> popular applications has made using python
+2. ## Check Python installed version - inside cmd (py --version)
+3. ## Create  your first python program ->  create name extension .py , ex - firstcode.py
+4. ##  run inside cmd : py firstcode.py
+5. ## Types of errors occur during programing  -> syntax error , compile time error , runtime error
+6  ## Data Types
+
+Human being = Hindi , English , Number 
+
+Python Data Types : 
+
+print("Hello")  # String 
+print(1000)     # Number
+print(99.99)    # Float
+print(True)     # Boolean
+ 
+print(False)     # Boolean
+
+--------------------------------------------------
+7. ## Variables = used to store the datatypes for identity purpose, 
+Always use = (equal sign ) to store the value , ex : name = "Ram"
+
+8. #Fuction = perform any action , example print karana. always use braces (). 
+
+Note : only 2 point is there in whole code , Variables & Fuction.
+
+9. ## concatenation , we add two variable in single line using comma (,) , example : print(name, age, salary)
+
+HomeWork : 
+1. write a program to that print employee details in one line (employeeName , EmployeeDepartment, EmployeeAddress)
+2. Write a program that print complete information about Student (RollNumber , StudentName , branch , emailId )
+3. write a program to add 2 numbers , define variable in camelCase;
+4. write a program to divide 2 numbers , define variable in snake_case;
+5. write a program to multiply 2 numbers , after this program add comments , again write a program to subtract 2 numbers
+
+-----------------
+9. Operator
+10. comments (# , """ text """)
+11. Recommended naming convention  (Camel Case , snake Case)
+
+A variable name must start with a letter or the underscore character
+A variable name cannot start with a number
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+Variable names are case-sensitive (age, Age and AGE are three different variables)
+
+---------------------------------
+
+12 , Introduction of GitHub -> central repository 
